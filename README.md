@@ -1,17 +1,23 @@
 # What_have_I_forgotten_here
 
-<p>Привет!</p>
+<h3>Привет!</h3>
 <p>Тут есть немного информации про меня ☺</p>
-<p>Соцсети: <a href="https://vk.com/usbam">VK</a></p>
+<p>
+  Соцсети:
+    <a href="https://vk.com/usbam">VK</a>, 
+    <a href="https://instagram.com/usbam_storm?utm_medium=copy_link">Instagram</a>
+</p>
 
+<hr>
 <hr>
 
 
 # Content
 
 - [Список проектов](#projects)
-- [Чем интересуюсь](#interests)
+- [Много скучной информации про меня](#addition_information)
 
+<hr>
 <hr>
 
 
@@ -19,7 +25,9 @@
 
 - [MyGarden](#mygarden)
 - [Сommercial proposal](#commercial_proposal)
+- [3D models](#models3d)
 
+<hr>
 <hr>
 
 
@@ -68,8 +76,48 @@
     <li>Опыт создания веб-интерфейсов при помощи библиотеки eel;</li>
     <li>Взаимодействие front и backend'а;</li>
     <li>Получение навыков JS'а;</li>
-    <li>Красивое визуальная часть приложения.</li>
+    <li>Красивая визуальная часть приложения.</li>
   </ul>
 </p>
 
 <hr>
+
+
+# Models3D
+
+<p>
+  <img src="https://sun9-76.userapi.com/impg/SXIZTucyBm0ARdTb08sYwMgeCnu9ngvS4UeTrA/AdAr9cZiWV8.jpg?size=801x633&quality=96&sign=f02eeb0cf35a2bed4e63302b7b42304d&c_uniq_tag=Y8mVPAPDUU5WcFc6NIegwmiH4rSHkvOeInvOqZULg9Y&type=album" width="600px" height="350px" title="3D models">
+  <h2>Краткое описание:</h2>
+  <b>3D Models</b> читает файл типа <i>.obj</i> и на основе полученной информации о координатах вершин рисует модель в двумерном пространстве, после чего сохраняет в <i>.png</i> файл.
+</p>
+<p>
+  <h2>Мой интерес к проекту:</h2>
+  <p>
+    Было интересно поработать с файлами трехмерных моделей, а также визуализировать полученную информацию.<br>
+    В какой-то момент написание этого скрипта превратилось в <i>"игру в оптимизацию"</i>, а главной целью стало - скорость выполнения, что внесло еще больший стимул в создание.<br>
+    На обработку файла на картинке ушло <b>5.2 секунды</b> при размере файла <b>17,5Мб</b>.
+  </p>
+</p>
+
+<hr>
+<hr>
+
+
+# Addition_Information
+
+<p>
+  <table>
+    <tr>
+      <th>Дата</th>
+      <th>Описание</th>
+    </tr>
+    <tr>
+      <td>2014 год</td>
+      <td>Поступил в <a href="https://www.rksi.ru/">Ростовский-на-Дону колледж связи и информатики</a> на специальность "Прикладная информатика"</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </table>
+</p>
