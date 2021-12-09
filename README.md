@@ -14,6 +14,7 @@
 
 # Content
 
+<a name="content"></a>
 - [Список проектов](#projects)
 - [Много скучной информации про меня](#addition_information)
 
@@ -57,6 +58,9 @@
 </p>
 <p>
   Link: <a href="https://github.com/USB-am/MyGarden.git" target="_blank">GitHub</a>
+</p>
+<p>
+  <a href="#content">К содержанию</a>
 </p>
 
 <hr>
@@ -113,7 +117,15 @@
     </tr>
     <tr>
       <td>2014 год</td>
-      <td>Поступил в <a href="https://www.rksi.ru/">Ростовский-на-Дону колледж связи и информатики</a> на специальность "Прикладная информатика"</td>
+      <td>Поступил в <a href="https://www.rksi.ru/">колледж</a> на специальность "Прикладная информатика"</td>
+    </tr>
+    <tr>
+      <td>2016 год</td>
+      <td>Начал самостоятельно изучать Python</td>
+    </tr>
+    <tr>
+      <td>2018 год</td>
+      <td>Поступил в <a href="https://rsue.ru/">университет</a></td>
     </tr>
     <tr>
       <td> </td>
